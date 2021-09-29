@@ -2,6 +2,12 @@
 
 <p align="center">I am a third-year undergrad student at IIT Madras. I have a great zeal for programming, and I am always excited about solving challenges and working on real-world problems. Likewise, I am skilled with C++, Python, and JavaScript and have worked with various tech frameworks. I am a self-dedicated person and always excited to learn and explore new things. Apart from this, I love to dance and read books, they are a great tool for refreshing my mind.</p>
 
+<h2 align = "center">Let's connect ✨</h2>
+<p align="center">
+ <a href="https://twitter.com/Drishti0901"><img src = "https://img.shields.io/badge/Twitter-Drishti0901?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/drishti-peshwani"><img src = "https://img.shields.io/badge/LinkedIn-drishti-peshwani?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
 <h2>Technical Skills</h2>
 <h3>Languages</h3>
 <p float="left">
@@ -23,10 +29,9 @@
  <p>
 
 <h2>Github Stats 💻 </h2>
-<p>
-<img align = "left" src = "https://drishti-stats-github.vercel.app/api?username=drishtipeshwani&show_icons=true&theme=radical&count_private=true"/>
-<img align = "right" src = "https://drishti-stats-github.vercel.app/api/top-langs/?username=drishtipeshwani&layout=compact/>
- <p/>                                                                                                                           
+<p><img align="right" height = "195px" width="410px" src="https://drishti-stats-github.vercel.app/api/top-langs?username=drishtipeshwani&show_icons=true&locale=en&layout=compact" alt="drishtipeshwani" /></p>
+
+<p>&nbsp;<img align="left" src="https://drishti-stats-github.vercel.app/api?username=drishtipeshwani&show_icons=true&locale=en&theme=radical&count_private=true" alt="drishtipeshwani" /></p>     
                                                                                                                               
                                                                                                                               
                                                                                                                             
