@@ -31,7 +31,7 @@
  <p>
 
 <h2 align = "center">Github Stats 📈</h2>
-<p><img align="right" height = "195px" width="395px" src="https://drishti-stats-github.vercel.app/api/top-langs?username=drishtipeshwani&show_icons=true&locale=en&layout=compact" alt="drishtipeshwani" /></p>
+<p><img align="right src="https://drishti-stats-github.vercel.app/api/top-langs?username=drishtipeshwani&show_icons=true&locale=en&layout=compact" alt="drishtipeshwani" /></p>
 
 <p>&nbsp;<img align="left" src="https://drishti-stats-github.vercel.app/api?username=drishtipeshwani&show_icons=true&locale=en&theme=radical&count_private=true" alt="drishtipeshwani" /></p>     
                                                                                                                               
