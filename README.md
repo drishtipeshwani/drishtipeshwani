@@ -29,13 +29,7 @@
 <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" height="50px" width="50px"/>
 <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" height="50px" width="50px"/>
 <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" height="50px" width="50px"/>
- <p>
-
-<h2 align = "center">Github Stats 📈</h2>
-<p><img align="right" height="195px" width = "300px"src="https://drishti-stats-github.vercel.app/api/top-langs?username=drishtipeshwani&show_icons=true&locale=en&layout=compact" alt="drishtipeshwani" /></p>
-
-<p><img align="left" src="https://drishti-stats-github.vercel.app/api?username=drishtipeshwani&show_icons=true&locale=en&theme=radical&count_private=true" alt="drishtipeshwani" /></p>     
-                                                                                                                              
+                                                                                                                   
                                                                                                                               
                                                                                                                             
 
