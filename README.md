@@ -23,7 +23,7 @@
  <img src = "https://appwrite.io/images-ee/press/square-logo-pink.svg" height="50px" width="50px"/>
 <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="50px" width="50px"/>
 <img src = "https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/angular/angular.png" height="50px" width="50px"/>
- <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/solidity/solidity.png" height="50px" width="50px"/>
+ <img src = "https://docs.soliditylang.org/en/v0.8.12/_static/logo.svg" height="50px" width="50px"/>
 <img src = "https://ionicframework.com/img/meta/logo.png" height="50px" width="50px"/>
 <img src = "https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/flask/flask.png" height="50px" width="50px"/>
 <img src = "https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/nodejs/nodejs.png" height="50px" width="50px"/>
