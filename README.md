@@ -1,5 +1,5 @@
 <h1 align="center">Hello there , This is Drishti 👋</h1>
-<p align="center">I am a third-year undergrad student at IIT Madras. I have a great zeal for programming, and I am always excited about solving challenges and working on real-world problems. Likewise, I am skilled with C++, Python, and JavaScript and have worked with various tech frameworks. I am a self-dedicated person and always excited to learn and explore new things. Apart from this, I love to dance and read books, they are a great tool for refreshing my mind.</p>
+<p align="center">I am a final-year undergrad student at IIT Madras. I have a great zeal for programming, and I am always excited about solving challenges and working on real-world problems. Likewise, I am skilled with C++, Python, and JavaScript and have worked with various tech frameworks. I am a self-dedicated person and always excited to learn and explore new things. Apart from this, I love to dance and read books, they are a great tool for refreshing my mind.</p>
 
 <h2 align = "center">Let's connect ✨</h2>
 <p align="center">
